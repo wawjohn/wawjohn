@@ -4,7 +4,36 @@ Words and WIres is a small company, incorporated as an SPRL under Belgian law, t
 ## John Seifarth
 - Masters of Science in Computer Information Systems from Boston University
 - 40 years of database experience
-
+### Database experience
+- dBase
+- FoxBase
+- Informix
+- Oracle 5 and 6
+- ADABAS
+- MS Access
+- Postgresql 7 through 17
+- MySQL
+### Programming languages
+- Pascal
+- BASIC
+- ADABAS/Natural
+- SQL
+- Unix shell (sh, ksh, bash)
+- Perl
+- C
+- HyperCard
+- FoxPro
+- Visual Basic
+- HTML/CSS
+- JavaScript
+- PHP
+- Python
+- microPython
+- Arduino C/C++
+### Environments, framexorks, and CMS
+- SQLPage
+- Drupal
+- WordPress
 <!--
 **wawjohn/wawjohn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
